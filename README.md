@@ -17,5 +17,4 @@ Kullanıcı Deneyimi:
 Etkili Gezinim: Menüler ve içerik yapısı, kullanıcıların ihtiyaç duydukları bilgilere kolayca ulaşmasını sağlar.
 Etkileşimli Öğeler: Kart tabanlı içerik sunumu, hover efektleri ve animasyonlar gibi detaylarla kullanıcı etkileşimi artırılmıştır.
 #  Ekran Goruntusu
-
-![bandicam2025-02-1423-29-14-634-ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/d4a82538-6e1f-4129-90c7-9ce37a8dbe04)
+![bandicam2025-03-0102-35-16-024-ezgif com-crop](https://github.com/user-attachments/assets/c8841b3b-9b74-488b-b4dd-ca8bcd6f756f)
